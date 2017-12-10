@@ -8,13 +8,15 @@ Used: Python 3 and pygame library
 
 ## Instructions to run the python file:
 For Windows:
+````
 	1) Install python:
 		https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation
 	2) Install Pygame
-		
+````	
 For Linux:
+````
 	1) Use ./sliding_window.py in the current directory or chmod to change the permissions.
-	
+````
 ## After running the sliding_window.py file :
 Give the following parameters:
 ````
